@@ -1,2 +1,17 @@
-Space asteroids:1.1.0:www.google.com
-Minecraft:1.12.1:www.example.com
+[
+{
+"caption": "Robot arena",
+"version": "1.0.0",
+"info": "https://example.com/info.zip",
+"game_windows": "https://example.com/info.zip",
+"game_linux": "https://example.com/info.zip"
+},
+
+{
+"caption": "Spaceship battle",
+"version": "1.1.0",
+"info": "https://example.com/info.zip",
+"game_windows": "https://example.com/info.zip",
+"game_linux": "https://example.com/info.zip"
+}
+]
